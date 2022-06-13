@@ -1,0 +1,15 @@
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\Entity\User.java
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\Config\SwaggerConfiguration.java
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\Controller\RoleController.java
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\Security\SecurityConfig.java
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\Security\Filter\CustomAuthFilter.java
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\Service\Impl\UserServiceImpl.java
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\Repository\UserRepository.java
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\Service\RoleService.java
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\AuthenticationMicroserviceApplication.java
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\Repository\RoleRepository.java
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\Entity\Role.java
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\Security\Filter\CustomAuthorisationFilter.java
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\Service\Impl\RoleServiceImpl.java
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\Controller\UserController.java
+C:\Users\dhia\Documents\Microservice\microservices\s-authentification\src\main\java\com\esprit\authentification\Service\UserService.java

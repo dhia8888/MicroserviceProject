@@ -1,0 +1,8 @@
+com\esprit\offer\Model\Offre.class
+com\esprit\offer\OffreServiceApplication.class
+com\esprit\offer\Exception\OffreNotFoundException.class
+com\esprit\offer\Service\OffreService.class
+com\esprit\offer\Controller\OffreController.class
+com\esprit\offer\Service\OffreServiceImpl.class
+com\esprit\offer\Repository\OffreRepository.class
+com\esprit\offer\Config\SwaggerConfiguration.class
