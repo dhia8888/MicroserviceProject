@@ -14,6 +14,10 @@
         <module>apigw</module>
         <module>s-authentification</module>
         <module>s-offer</module>
+        <module>s-candidate</module>
+        <module>s-employee</module>
+        <module>evaluation-service</module>
+        <module>apigw/s-candidature</module>
     </modules>
 
     <name>ProjectMicroservice</name>

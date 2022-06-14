@@ -1,8 +1,8 @@
-C:\Users\dhia\Documents\Microservice\microservices\s-offer\src\main\java\com\esprit\offer\Controller\OffreController.java
-C:\Users\dhia\Documents\Microservice\microservices\s-offer\src\main\java\com\esprit\offer\Exception\OffreNotFoundException.java
-C:\Users\dhia\Documents\Microservice\microservices\s-offer\src\main\java\com\esprit\offer\Model\Offre.java
-C:\Users\dhia\Documents\Microservice\microservices\s-offer\src\main\java\com\esprit\offer\Config\SwaggerConfiguration.java
-C:\Users\dhia\Documents\Microservice\microservices\s-offer\src\main\java\com\esprit\offer\OffreServiceApplication.java
-C:\Users\dhia\Documents\Microservice\microservices\s-offer\src\main\java\com\esprit\offer\Repository\OffreRepository.java
-C:\Users\dhia\Documents\Microservice\microservices\s-offer\src\main\java\com\esprit\offer\Service\OffreServiceImpl.java
-C:\Users\dhia\Documents\Microservice\microservices\s-offer\src\main\java\com\esprit\offer\Service\OffreService.java
+C:\Users\dhia\Documents\Project\s-offer\src\main\java\com\esprit\offer\Repository\OffreRepository.java
+C:\Users\dhia\Documents\Project\s-offer\src\main\java\com\esprit\offer\Controller\OffreController.java
+C:\Users\dhia\Documents\Project\s-offer\src\main\java\com\esprit\offer\Exception\OffreNotFoundException.java
+C:\Users\dhia\Documents\Project\s-offer\src\main\java\com\esprit\offer\Model\Offre.java
+C:\Users\dhia\Documents\Project\s-offer\src\main\java\com\esprit\offer\Service\OffreService.java
+C:\Users\dhia\Documents\Project\s-offer\src\main\java\com\esprit\offer\Config\SwaggerConfiguration.java
+C:\Users\dhia\Documents\Project\s-offer\src\main\java\com\esprit\offer\OffreServiceApplication.java
+C:\Users\dhia\Documents\Project\s-offer\src\main\java\com\esprit\offer\Service\OffreServiceImpl.java

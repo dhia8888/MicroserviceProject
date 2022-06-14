@@ -7,9 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="s-offer" />
+        <module name="s-employee" />
         <module name="apigw" />
-        <module name="eureka-server" />
+        <module name="evaluation-service" />
+        <module name="s-candidature" />
         <module name="s-authentification" />
+        <module name="eureka-server" />
       </profile>
     </annotationProcessing>
   </component>
